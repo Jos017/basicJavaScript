@@ -1,2 +1,2 @@
-# basicJavaScript
-Ejemplos realizados en el curso de JavaScript basico de Platzi
+# JavaScript Basico
+Ejemplos realizados en el [Curso Básico de JavaScript](https://platzi.com/cursos/basico-javascript/) de Platzi
